@@ -88,7 +88,7 @@ Aplikacja realizuje następujące funkcjonalności:
 
 1.  Sklonuj repozytorium:
     ```bash
-    git clone https://github.com/AdamCzp/PF169229/projekt_v2.git
+    git clone https://github.com/AdamCzp/PF169229/tree/main/projekt_v2
     cd projekt
     ```
 2.  (Zalecane) Utwórz i aktywuj wirtualne środowisko:
